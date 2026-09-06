@@ -30,7 +30,7 @@
 
 | 信号 | |
 |:--|--:|
-| 公開リポジトリ | 103 |
+| 公開リポジトリ | 104 |
 | フォロワー / フォロー中 | 4 / 7 |
 | 公開の旗艦 | [ARCANA](https://github.com/matrix9neonebuchadnezzar2199-sketch/ARCANA) ★3 |
 | 拠点 | 東京 |
